@@ -7,7 +7,13 @@ http://www.reddit.com/r/dailyprogrammer/comments/2ao99p/7142014_challenge_171_ea
 
 Simple Java program with GUI which takes 8 hex values from the user, and outputs an 8x8 bitmap
 
+
+
+
 - Currently contains no error handling
+
+
+
 
 
 Some value sets which can be used to test are:
